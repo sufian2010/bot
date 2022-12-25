@@ -1,0 +1,5 @@
+ip=bhaibhai1626.aternos.me
+
+port=33284
+
+name= bot
